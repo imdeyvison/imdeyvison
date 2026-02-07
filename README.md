@@ -18,7 +18,7 @@ Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS), ten
 </td>
 <td>
 
-<img src="MeuGif (2).gif" width="330"/>
+<img src="MeuGif (2).gif" width="230"/>
 
 </td>
 </tr>
